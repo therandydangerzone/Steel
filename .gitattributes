@@ -1,0 +1,13 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Explicitly treat C++ code, configurations, and project descriptors as text
+*.cpp text
+*.h text
+*.cs text
+*.ini text
+*.uproject text
+
+# Ensure shell scripts retain LF line endings (useful if you compile on Linux/Mac)
+*.sh text eol=lf
+*.bat text eol=crlf
