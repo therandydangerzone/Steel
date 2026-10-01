@@ -3,4 +3,8 @@ To download the beta you must download all of the 7zip files under releases to a
 Once that is completed you will extract the files from the first 7zip file to that folder.
 Extracting from the first 7zip file should extract all of the data 7zip files you downloaded.
 Here is a link to video on youtube.com of gameplay https://www.youtube.com/watch?v=4TbTrL86_Wg.
+The C++ code that was used to create the game available to view.
+On blueprintUE I have 10 blueprints added that were used for the game can always share more upon request. 
+Link : https://blueprintue.com/profile/bvesterblueprints/.
+
 I hope you enjoy the demo!
