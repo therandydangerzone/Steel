@@ -1,4 +1,5 @@
-This is a demo game made using Unreal Engine 5.5. There is a released beta version available under releases. 
+This is a demo game made using Unreal Engine 5.5. For this game use an Xbox controller to play it. 
+There is a released beta version available under releases. 
 To download the beta you must download all of the 7zip files under releases to a single folder. 
 Once that is completed you will extract the files from the first 7zip file to that folder.
 Extracting from the first 7zip file should extract all of the data from the 7zip files you downloaded.
