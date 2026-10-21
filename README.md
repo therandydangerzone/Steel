@@ -1,5 +1,5 @@
 This is a demo game made using Unreal Engine 5.5. For this game use an Xbox controller to play it. 
-All of the meshes and textures used are from Fab.com. 
+All of the audio, meshes, and textures used are from Fab.com. 
 There is a released beta version available under releases. 
 To download the beta you must download all of the 7zip files under releases then move them to a new folder. 
 Once that is completed you will extract the files from the first 7zip file to that folder.
