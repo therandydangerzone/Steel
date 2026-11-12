@@ -1,9 +1,7 @@
-This is a demo game made using Unreal Engine 5.5. For this game use an Xbox controller to play it. 
+This is a demo game made using Unreal Engine 5.5. For this game use an Xbox controller or keyboard and mouse to play it. 
 All of the audio, meshes, and textures used are from Fab.com. 
-There is a released beta version available under releases. 
-To download the beta you must download all of the 7zip files under releases then move them to a new folder. 
-Once that is completed you will extract the files from the first 7zip file to that folder.
-Extracting from the first 7zip file should extract all of the data from the 7zip files you downloaded.
+There are two released beta versions available under releases. The only difference between the two is the maps used.
+To download either beta click the zip file once downloaded extract the zip file to a new folder. 
 Here is a link to a video on youtube.com of gameplay https://www.youtube.com/watch?v=4TbTrL86_Wg.
 The C++ code that was used to create the game is available to view on this repository.
 On blueprintUE I have 10 blueprints examples added that were used for the game. I can always share more upon request. 
